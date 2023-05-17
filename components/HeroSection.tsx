@@ -10,7 +10,7 @@ import {
   AiOutlineYoutube,
   AiOutlineDownload,
 } from "react-icons/ai";
-import { GrDocumentPdf } from "react-icons/gr";
+import { IoDocumentAttachOutline } from "react-icons/io5";
 
 const HeroSection = () => {
   return (
@@ -57,7 +57,7 @@ const HeroSection = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <GrDocumentPdf className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100" />
+              <IoDocumentAttachOutline className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100" />
             </a>
           </div>
           <Link
