@@ -37,15 +37,15 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I graduated from General Assembly's Software Engineering Immersive
-              Bootcamp and have been working on my projects ever since.
+              I graduated from General Assembly Software Engineering Immersive
+              Bootcamp and just started my software development journey.
             </p>
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
+              Playing sports, traveling, and continuing to work on projects. I
+              am always seeking new experiences and love to keep myself engaged
+              by learning new things.
             </p>
             <br />
             <p>
