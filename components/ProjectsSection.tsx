@@ -6,7 +6,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "Reddit Clone",
+    name: "Airbnb Clone",
     description:
       "Cloned 'Airbnb' using Next.js, TailwindCSS, TypeScript, and Prisma",
     image: "/airbnb.png",
