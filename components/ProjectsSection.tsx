@@ -6,12 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "Odd Bets",
+    name: "Reddit Clone",
     description:
-      "Using Odds API to make sportsbetting easier and more profitable!",
-    image: "/comingsoon.png",
-    github: "https://github.com/jaebum25/odd-bets",
-    link: "https://github.com/jaebum25/odd-bets",
+      "Cloned 'Airbnb' using Next.js, TailwindCSS, TypeScript, and Prisma",
+    image: "/airbnb.png",
+    github: "https://github.com/jaebum25/airbnb-clone",
+    link: "https://airbnb-clone-jaebum25.vercel.app/",
   },
   {
     name: "Reddit Clone",
@@ -28,6 +28,14 @@ const projects = [
     image: "/spotter.png",
     github: "https://github.com/jaebum25/spotter",
     link: "https://brians-spotter.herokuapp.com/",
+  },
+  {
+    name: "Odd Bets",
+    description:
+      "Using Odds API to make sportsbetting easier and more profitable!",
+    image: "/comingsoon.png",
+    github: "https://github.com/jaebum25/odd-bets",
+    link: "https://github.com/jaebum25/odd-bets",
   },
 ];
 
